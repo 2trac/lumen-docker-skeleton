@@ -1,1 +1,1 @@
-# Frontend do Projeto Rádios 2022 - Laravel Lumen 8.2
+# Laravel Lumen Skeleton 8.2
